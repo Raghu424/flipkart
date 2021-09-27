@@ -1,0 +1,28 @@
+/* .header__deal7{
+    display: flex;
+    margin-left: 3%;
+    background-color: tomato;
+} */
+.but6{
+    margin-left: 10%;
+    background-color:orange
+    
+    }
+    .but7{
+       
+        background-color:orangered;
+        width:180px;
+        }
+        .but5{
+            margin-top: -2%;
+            display: flex;
+        }
+        @media (max-width: 768px){
+        
+          .header__Today3{
+              max-width: 150px;
+          }
+          
+            
+           }
+        

@@ -1,0 +1,265 @@
+.home1{
+    margin-left: 5%;
+  justify-content: space-between;
+  display: flex;
+  background-color: white;
+ 
+}
+.set1 img{
+    margin-right: 20px;
+    text-align: center;
+display: flex;
+}
+.header__3{
+    /* width:200px;
+    height: 180px;
+    margin-left: 5%; */
+    max-width: 120px;
+    margin-left: 5%;
+}
+.h-5{
+    margin-left: 55%;
+    margin-top: -42%;
+}
+.h-6{
+    margin-left: 70%;
+    margin-top: -42%;
+}
+
+.header__2{
+    width:300px;
+    height: 150px;
+}
+.header__4{
+   margin-left: 5%;
+}
+.home2{
+    background-color: whitesmoke;
+}
+.set2{
+    margin-top: -3%;
+    margin-left: 2%;
+    display: flex;
+    flex:33.33%;
+    padding: 5px;
+}
+.set3{
+    margin-top: 40%;
+    margin-left: 15%;
+    margin-top: -3%;
+    color: black;
+}
+.header__set4{
+    flex-direction: row;
+    display: flex;
+    margin-left: 2%;
+   
+   
+}
+.header__set5{
+    flex-direction: row;
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-between;
+  
+}
+.img-responsive{
+    width:1500px;
+}
+.header__Today1{
+    margin-left: 10%;
+    width: 100px;
+}
+
+.header__deal3{
+    margin-left: 4%;
+
+}
+.header__deal4{
+    margin-left: 5%;
+
+}
+.h-1{
+    background-color: white;
+}
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: help;
+}
+.main{
+    justify-content: space-between;
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+    
+}
+.home__main{
+    background-color: #f0f0f0;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    width: auto;
+    justify-content: space-between;
+    padding: -50px;
+    
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    
+}
+  
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown-content a:hover {background-color: #f1f1f1}
+  
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+  
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+.header__Today4{
+    width: 200px;
+
+}
+.header__Today5{
+    width: 200px;
+     margin-left: 10%;
+}
+.header__1{
+    margin-left: 13%;
+}
+
+.h-1{
+margin-left: 1%;
+margin-top: 1%;
+}
+.deal1{
+    background-color: white;
+   
+}
+.d1{
+    background-color: white;
+}
+.home3{
+    /* margin-left: 20%; */
+    margin-left: -40%;
+    justify-content: space-between;
+}
+.set4{
+    color: black;
+}
+@media (max-width: 768px){
+  
+    .home2{
+        max-width: 400px;
+      
+         
+      
+        border:1px solid black;
+        height:8ovh;
+        overflow-y:auto ;
+      
+    
+    }
+     /* .home1{
+        overflow-x: auto;
+     } */
+     /* .header__set4{
+        overflow-x: auto;  
+        max-width: 400px
+        height:8ovh;
+        overflow-y:auto ;
+        overflow-x:auto ;
+     } */
+     .h-1{
+        overflow-y:auto ;
+     }
+     .img-responsive{
+         width:420px;
+     }
+     .header__Today1{
+         max-width: 50px;
+         margin-left: 2%;
+      
+     }
+    
+     .header__Today2{
+        max-width: 50px;
+        margin-left: 2%;
+    }
+     .header__deal1{
+        margin-left:-1%;  
+     }
+     .header__deal2{
+        margin-left:-3%;  
+     }
+     .dropdown{
+        margin-left:5px;
+        margin-top: 2%;
+
+     }
+     .images{
+        max-width: 40px; 
+     }
+     .set3{
+        font-size: 10px;
+    }
+     .home1{
+         margin-left: 1px;
+         background-color: white;
+         overflow: auto;
+     }
+     .header__4{
+         margin-left: 1%;
+     }
+     .header__set5{
+         background-color: white;
+       
+            flex-direction: row;
+            display: flex;
+            margin-left: 19%;
+          
+          
+       
+     }
+     .st4{
+         font-size: 10px;
+     }
+     .dropdown {
+        position: relative;
+        display: inline-block;
+        width: auto;
+        justify-content: space-between;
+        padding: -50px;
+        
+    }
+      
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        
+    }
+    
+}

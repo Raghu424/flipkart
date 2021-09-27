@@ -1,0 +1,46 @@
+.b1{
+   
+    width: 200px;
+    height:200px;
+}
+.b2{
+    width: 200px;
+    height:200px;
+    margin-top: 10%;
+}
+.row3{
+    background-color: whitesmoke;
+}
+.header__Today3{
+    height: 320px;
+}
+ .row3{
+    margin-left: 2%;
+} 
+.header__Today5{
+    height: 370px;
+    width: 350px;
+}
+.header__Today6{
+    height: 370px;
+    width: 350px;
+}
+.but5{
+    margin-top: -2%;
+    display: flex;
+}
+.but4{
+margin-left: 10%;
+background-color:orange
+
+}
+.but3{
+   
+    background-color:orangered;
+    width:180px;
+    }
+
+/* .header__deal3{
+  width:400px;
+background-color: white;
+} */

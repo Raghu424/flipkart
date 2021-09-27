@@ -1,0 +1,134 @@
+.header{
+    background-color:  rgb(39, 122, 216);
+    height: 60px;
+    align-items: center;
+}
+.header__logo{
+    width: 100px;
+    margin: 10px;
+    margin-left: 15%;
+   
+}
+.header__main2{
+    margin-top: -4%;
+    margin-left: 20%;
+}
+.header__search{
+    width: 400px;
+    height: 25px;
+    /* margin-top: 20px; */
+    margin-top: 20%;
+   margin-left: 4%;
+  margin-top: -1000px;
+}
+
+/* .header__search > input{
+
+    height: 35px;;
+    padding: 7px;
+    border: none;
+    width: 101%;
+    
+} */
+.header__searchIcon{
+    margin-top: 4px;
+    padding-top: 1px;
+    background-color: white;
+
+
+}
+.icon1{
+    margin-left: 40%;
+    margin-top: -29px;
+    width: 150px;
+    height: 5px;
+}
+.login2{
+    background-color: white;
+    margin-left: 55%;
+    width: 100px;
+    height: 25px;
+    color: blue;
+   
+    /* margin-top: -25px; */
+    text-align: center;
+    
+}
+.login1{
+    margin-top: 1%;
+}
+.more1{
+   
+    margin-left: 70%;
+    margin-top: -2%;
+    
+    color:white;
+    
+    
+}
+.header__shoppingCartIcon{
+    height: 30px;
+    width: 30px;
+    color: white;
+}
+.cart_count{
+    color:white;
+    background-color: red;
+  width: 1px;
+  height: 10px;
+    margin-top: -15%;
+    margin-left: -1%;
+}
+.cart_count1{
+    margin-left: 1%;
+    margin-top: -5%;
+}
+   
+.header__cart{
+    margin: 5px;
+    color: white;
+    margin-left: 80%;
+    margin-top: -32px;
+       
+    }
+    @media (max-width: 768px){
+        .header{
+         max-width: 400px;
+         height: 90px;
+
+        }
+        .header__logo{
+          
+            margin-left: -5%;
+        }
+        .header__logopart{
+            margin-left: 10px;
+        }
+        .header__main1{
+            margin-left: 10px;
+        }
+        .header__main2{
+            margin-top: -12%;
+            margin-left: 20%;
+        }
+        .header__main2>input{
+            max-width: 280px;
+
+        }
+        .header__searchIcon{
+            margin-left: 100%;
+            
+        }
+        .login2{
+            margin-top: 10%;
+           margin-left: 20%;
+        }
+        
+.more1{
+    margin-left: 58%;
+    margin-top: -7%;
+}
+    
+    }
+    
+

@@ -1,0 +1,9 @@
+.log6{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 1px;
+}
+.log5{
+    display: flex;
+}
