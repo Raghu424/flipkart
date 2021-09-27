@@ -20,7 +20,7 @@ function reducer( state=initialState , action ){
                     }
         case"REMOVE__PRODUCT":
         let newBasket=[...state.basket]
-        let index=newBasket.findIndex(item=>item.id==action.id)
+        let index=newBasket.findIndex(item=>item.id=action.id)
         newBasket.splice(index,1);
         if(index>=0){
             newBasket.splice(index,1);
