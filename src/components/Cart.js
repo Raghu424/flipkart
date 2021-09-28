@@ -20,7 +20,7 @@ export default function Cart() {
                 <div className='cart1'>
                     <h5>My Cart</h5>
                     <div className='cart4' >
-                        <img className='cart3' src={Cart1} />
+                        <img className='cart3' src={Cart1} alt=""/>
                         <h6>Missing Cart items?</h6>
                         <span>Login to see the items you added previously</span>
                         <div >

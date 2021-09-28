@@ -6,9 +6,9 @@ import Mob2 from '../components/pictures/mob2.png'
 import Mob3 from '../components/pictures/mob3.png'
 import Mob4 from '../components/pictures/mob4.png'
 import { Link } from 'react-router-dom'
-import {useDispatch} from 'react-redux';
+
 export default function Mob() {
-    let dispatch=useDispatch()
+    
     return (
         <div className='home2'>
             <div className='tel'>
@@ -18,36 +18,36 @@ export default function Mob() {
 
                         <div class="dropdown-content">
                             <Link to='/television'>
-                                <a href="#">Televisions</a>
+                                <p>Televisions</p>
                             </Link>
                             <Link to='men'>
-                                <a href="#">Styles for men </a>
+                                <p>Styles for men </p>
                             </Link>
 
                             <Link to='saree'>
-                                <a href="#">Styles for women</a>
+                                <p>Styles for women</p>
                             </Link>
                             <Link to='spray'>
-                                <a href="#"> Deodrant Sprays</a>
+                                <p> Deodrant Sprays</p>
                             </Link>
                             <Link to='/watch'>
-                                <a href="#">watches</a>
+                                <p>watches</p>
                             </Link>
                             <Link to='mobiles'>
 
-                                <a href="#">Mobiles</a>
+                                <p>Mobiles</p>
                             </Link>
                             <Link to='curten'>
-                                <a href="#">Curtens</a>
+                                <p>Curtens</p>
                             </Link>
                             <Link to='electronics'>
-                                <a href="#">Electronics</a>
+                                <p>Electronics</p>
                             </Link>
                             <Link to='pouch'>
-                                <a href="#">Mobile Pouches</a>
+                                <p>Mobile Pouches</p>
                             </Link>
                             <Link to='pendrive'>
-                                <a href="#"> pendrive</a>
+                                <p> pendrive</p>
                             </Link>
 
                         </div>
@@ -59,36 +59,36 @@ export default function Mob() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -101,36 +101,36 @@ export default function Mob() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -143,36 +143,36 @@ export default function Mob() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -185,36 +185,36 @@ export default function Mob() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -227,36 +227,36 @@ export default function Mob() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -269,7 +269,7 @@ export default function Mob() {
             <div className='.col1'>
             <div className='mob1'>
 
-                <img className='m10' src={Mob1}/>
+                <img className='m10' src={Mob1} alt=""/>
                
          
         <div className='m2'>
@@ -283,7 +283,7 @@ export default function Mob() {
                    <li>Stock Android Experience</li>
                 </div>
                 <div className='m3'>
-                <img className='m4' src={Flip}/>
+                <img className='m4' src={Flip}alt=""/>
                     <h4>₹16,999 </h4>
                      <h6>  ₹21,999 22% </h6> 
                       <span>Upto 15,000 off on Exchange</span>  
@@ -301,7 +301,7 @@ export default function Mob() {
            <div className='row2'>
                 <div className='.col1'>
             <div className='mob1'>
-                <img className='m1' src={Mob2}/>
+                <img className='m1' src={Mob2}alt=""/>
                
           
         <div className='m2'>
@@ -314,7 +314,7 @@ export default function Mob() {
                  
                 </div>
                 <div className='m3'>
-                <img className='m4' src={Flip}/>
+                <img className='m4' src={Flip}alt=""/>
                     <h4>₹7,999 </h4>
                      <h6>  ₹10,999 27% </h6> 
                       <span>Upto 2,000 off on Exchange</span>  
@@ -332,7 +332,7 @@ export default function Mob() {
 <div className='row2'>
         <div className='.col1'>
             <div className='mob1'>
-                <img className='m1' src={Mob3}/>
+                <img className='m1' src={Mob3}alt=""/>
                
           
         <div className='m2'>
@@ -346,7 +346,7 @@ export default function Mob() {
                  
                 </div>
                 <div className='m3'>
-                <img className='m4' src={Flip}/>
+                <img className='m4' src={Flip} alt=""/>
                     <h4>₹17,999 </h4>
                      <h6>  ₹20,999 17% </h6> 
                       <span>Upto 2,000 off on Exchange</span>  
@@ -363,7 +363,7 @@ export default function Mob() {
         <div className='row2'>
         <div className='.col1'>
             <div className='mob1'>
-                <img className='m1' src={Mob4}/>
+                <img className='m1' src={Mob4} alt=""/>
                
           
         <div className='m2'>
@@ -377,7 +377,7 @@ export default function Mob() {
                  
                 </div>
                 <div className='m3'>
-                <img className='m4' src={Flip}/>
+                <img className='m4' src={Flip} alt=""/>
                     <h4>₹18,999 </h4>
                      <h6>  ₹23,999 27% </h6> 
                       <span>Upto 5,000 off on Exchange</span>  

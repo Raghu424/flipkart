@@ -24,36 +24,36 @@ export default function Watches(id,price,title) {
 
                         <div class="dropdown-content">
                             <Link to='/television'>
-                                <a href="#">Televisions</a>
+                                <p>Televisions</p>
                             </Link>
                             <Link to='men'>
-                                <a href="#">Styles for men </a>
+                                <p>Styles for men </p>
                             </Link>
 
                             <Link to='saree'>
-                                <a href="#">Styles for women</a>
+                                <p>Styles for women</p>
                             </Link>
                             <Link to='spray'>
-                                <a href="#"> Deodrant Sprays</a>
+                                <p> Deodrant Sprays</p>
                             </Link>
                             <Link to='/watch'>
-                                <a href="#">watches</a>
+                                <p>watches</p>
                             </Link>
                             <Link to='mobiles'>
 
-                                <a href="#">Mobiles</a>
+                                <p>Mobiles</p>
                             </Link>
                             <Link to='curten'>
-                                <a href="#">Curtens</a>
+                                <p>Curtens</p>
                             </Link>
                             <Link to='electronics'>
-                                <a href="#">Electronics</a>
+                                <p>Electronics</p>
                             </Link>
                             <Link to='pouch'>
-                                <a href="#">Mobile Pouches</a>
+                                <p>Mobile Pouches</p>
                             </Link>
                             <Link to='pendrive'>
-                                <a href="#"> pendrive</a>
+                                <p> pendrive</p>
                             </Link>
 
                         </div>
@@ -65,36 +65,36 @@ export default function Watches(id,price,title) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -107,36 +107,36 @@ export default function Watches(id,price,title) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -149,36 +149,36 @@ export default function Watches(id,price,title) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -191,36 +191,36 @@ export default function Watches(id,price,title) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -233,36 +233,36 @@ export default function Watches(id,price,title) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -276,10 +276,10 @@ export default function Watches(id,price,title) {
                 <div className='row4'>
                     <div className="row header__set4">
                         <div className='header__deal7'>
-                            <img className="header__Today3" src={B1} />
+                            <img className="header__Today3" src={B1} alt=""/>
                             <h6 className='set4'>LCS-8188 BLUE DIAL AND SILVER S </h6>
                             <h6>FUNCTIONING WATch BOYS watch</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 20% off + 10% </span>
                             <h6>specialprice:₹1139</h6>
                             <div className='but8'>
@@ -289,11 +289,11 @@ export default function Watches(id,price,title) {
                         </div>
 
                         <div className='header__deal7'>
-                            <img className="header__Today3" src={B2} />
+                            <img className="header__Today3" src={B2} alt=""/>
                            
                             <h6 className='set4'>NEW STYLISH DIAL- PU STRAP</h6>
                             <h6> MEN Analog Watch - For Boys </h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 70% off</span>
                             <h6>specialprice:₹739</h6>
                             <div className='but8'>
@@ -302,11 +302,11 @@ export default function Watches(id,price,title) {
                             </div>
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today3" src={B4} />
+                            <img className="header__Today3" src={B4} alt=""/>
                             <h6 className='set4'>216-Blue Sporty look Designer For </h6>
                             <h6>Boys And Men Analog Watch - For Men</h6>
                           
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1439</h6>
                             <div className='but8'>
@@ -317,11 +317,11 @@ export default function Watches(id,price,title) {
 
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today3" src={B3} />
+                            <img className="header__Today3" src={B3} alt=""/>
                            
                             <h6 className='set4'>1170-BL-BR Unique New Day &   </h6>
                             <h6>Date Analog Watch - For Men</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1439</h6>
                             <div className='but8'>
@@ -332,10 +332,10 @@ export default function Watches(id,price,title) {
 
                         </div>
                         <div className='header__deal7'>
-                            <img className="header__Today3" src={B3} />
+                            <img className="header__Today3" src={B3} alt=""/>
                             <h6 className='set4'>1170-BL-BR Unique New Day &   </h6>
                             <h6>Date Analog Watch - For Men</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1439</h6>
                             <div className='but8'>
@@ -351,9 +351,9 @@ export default function Watches(id,price,title) {
 
 
                         <div className='header__deal3'>
-                            <img className="header__Today3" src={B8} />
+                            <img className="header__Today3" src={B8} alt=""/>
                             <h6 className='set4'>IWS Self Design Double Mink Blanket  </h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1439</h6>
                             <div className='but8'>
@@ -364,10 +364,10 @@ export default function Watches(id,price,title) {
 
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today3" src={B6} />
+                            <img className="header__Today3" src={B6} alt=""/>
                             <h6 className='set4'>1164-BR Brown Day and Date Unique </h6>
                             <h6>New Analog Watch - For Men</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1439</h6>
                             <div className='but8'>
@@ -378,10 +378,10 @@ export default function Watches(id,price,title) {
 
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today3" src={B5} />
+                            <img className="header__Today3" src={B5} alt=""/>
                             <h6 className='set4'>HMTG-G9052 Original Gold Plated </h6>
                             <h6> Chain Analog Watch - For Men</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1439</h6>
                             <div className='but8'>

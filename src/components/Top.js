@@ -19,13 +19,13 @@ export default function Top() {
         <h4>Fashion Top Deals</h4>
         <div className="row header__set4">
           <div className='header__deal3'>
-            <img className="header__Today2" src={Top1} />
+            <img className="header__Today2" src={Top1} alt=""/>
             <h5 className='set4'>Half tee shirts</h5>
             <span>Upto 20% off + 10% extra Off</span>
             <p>Great savings</p>
           </div>
           <div className='header__deal3'>
-            <img className="header__Today2" src={Top2} />
+            <img className="header__Today2" src={Top2} alt=""/>
             <h5 className='set4'>Full tee shirts</h5>
             <span>Upto 70% off</span>
             <p>Super saver deal</p>
@@ -33,26 +33,26 @@ export default function Top() {
           </div>
 
           <div className='header__deal3'>
-            <img className="header__Today2" src={Top3} />
+            <img className="header__Today2" src={Top3} alt=""/>
             <h5 className='set4'>Model tee shirts</h5>
             <span>Upto 30% off</span>
             <p>Super saver deal</p>
           </div>
           <div className='header__deal3'>
-            <img className="header__Today2" src={Top4} />
+            <img className="header__Today2" src={Top4} alt=""/>
             <h5 className='set4'> Modern bags</h5>
             <span>Upto 50% off</span>
             <p>Dell and more</p>
 
           </div>
           <div className='header__deal3'>
-            <img className="header__Today2" src={Top5} />
+            <img className="header__Today2" src={Top5} alt=""/>
             <h5 className='set4'>Hand bags</h5>
             <span>10% Extra off</span>
             <p>@mind blowing discounts</p>
           </div>
           <div className='header__deal3'>
-            <img className="header__Today2" src={Top6} />
+            <img className="header__Today2" src={Top6} alt=""/>
             <h5 className='set4'>Special Watches</h5>
             <span>Under 499</span>
             <p>Davatra saree and more</p>
@@ -65,13 +65,13 @@ export default function Top() {
         <h4>Deals On Washing Machines</h4>
         <div className="row header__set4">
           <div className='header__deal3'>
-            <img className="header__Today2" src={W1} />
+            <img className="header__Today2" src={W1} alt=""/>
             <h5 className='set4'>From 21999</h5>
             <span>Upto 20% off + 10% extra Off</span>
             <p>Great savings</p>
           </div>
           <div className='header__deal3'>
-            <img className="header__Today2" src={W2} />
+            <img className="header__Today2" src={W2}alt="" />
             <h5 className='set4'>From 23999</h5>
             <span>Upto 70% off</span>
             <p>Super saver deal</p>
@@ -79,26 +79,26 @@ export default function Top() {
           </div>
 
           <div className='header__deal3'>
-            <img className="header__Today2" src={W3} />
+            <img className="header__Today2" src={W3}alt="" />
             <h5 className='set4'>From 19998</h5>
             <span>Upto 30% off</span>
             <p>Super saver deal</p>
           </div>
           <div className='header__deal3'>
-            <img className="header__Today2" src={W4} />
+            <img className="header__Today2" src={W4}alt="" />
             <h5 className='set4'> From 25999</h5>
             <span>Upto 50% off</span>
             <p>Dell and more</p>
 
           </div>
           <div className='header__deal3'>
-            <img className="header__Today2" src={W5} />
+            <img className="header__Today2" src={W5} alt=""/>
             <h5 className='set4'>From 17999</h5>
             <span>10% Extra off</span>
             <p>@mind blowing discounts</p>
           </div>
           <div className='header__deal3'>
-            <img className="header__Today2" src={W6} />
+            <img className="header__Today2" src={W6} alt=""/>
             <h5 className='set4'>From 19999</h5>
             <span>Under 499</span>
             <p>Davatra saree and more</p>

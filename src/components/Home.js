@@ -6,7 +6,7 @@ import Home3 from '../components/pictures/home3.png'
 import Home4 from '../components/pictures/home4.png'
 import Home5 from '../components/pictures/home5.png'
 import Home6 from '../components/pictures/home6.png'
-import Home7 from '../components/pictures/home7.png'
+
 import Home8 from '../components/pictures/home8.png'
 import Home9 from '../components/pictures/home9.png'
 import Pro1 from '../components/pictures/pro1.png'
@@ -21,7 +21,7 @@ import D3 from '../components/pictures/dis3.png'
 import D4 from '../components/pictures/dis6.png'
 import D5 from '../components/pictures/dis5.png'
 import D6 from '../components/pictures/fur7.png'
-import StarIcon from '@material-ui/icons/Star';
+
 import { Link } from 'react-router-dom'
 import Deal3 from '../components/pictures/deal3.png'
 import Deal4 from '../components/pictures/deal4.png'
@@ -43,14 +43,14 @@ export default function Home() {
 
           <div className='header__deal1'>
             <Link to='./top'>
-              <img className="header__Today1" src={Home1} />
+              <img className="header__Today1" src={Home1} alt="" />
               <h6 className='set3'>Top offers</h6>
             </Link>
           </div>
 
           <div className='header__deal2'>
             <Link to='./mobiles'>
-              <img className="header__Today2" src={Home2} />
+              <img className="header__Today2" src={Home2} alt=""/>
               <h6 className='set3'>Mobiles</h6>
             </Link>
           </div>
@@ -60,235 +60,235 @@ export default function Home() {
             <div className='h-3'>
               
               <div class="dropdown">
-                <img className="images" src={Home3} />
+                <img className="images" src={Home3} alt=""/>
                 <h6 className='set3'>Fashion</h6>
                 
                 <div class="dropdown-content">
                   <Link to='/television'>
-                    <a href="#">Televisions</a>
+                    <p>Televisions</p>
                   </Link>
                   <Link to='men'>
-                    <a href="#">Styles for men </a>
+                    <p>Styles for men </p>
                   </Link>
 
                   <Link to='saree'>
-                    <a href="#">Styles for women</a>
+                    <p>Styles for women</p>
                   </Link>
                   <Link to='spray'>
-                    <a href="#"> Deodrant Sprays</a>
+                    <p> Deodrant Sprays</p>
                   </Link>
                   <Link to='/watch'>
-                    <a href="#">watches</a>
+                    <p>watches</p>
                   </Link>
                   <Link to='mobiles'>
 
-                    <a href="#">Mobiles</a>
+                    <p>Mobiles</p>
                   </Link>
                   <Link to='curten'>
-                    <a href="#">Curtens</a>
+                    <p>Curtens</p>
                   </Link>
                   <Link to='electronics'>
-                    <a href="#">Electronics</a>
+                    <p>Electronics</p>
                   </Link>
                   <Link to='pouch'>
-                    <a href="#">Mobile Pouches</a>
+                    <p>Mobile Pouches</p>
                   </Link>
                   <Link to='pendrive'>
-                    <a href="#"> pendrive</a>
+                    <p> pendrive</p>
                   </Link>
 
                 </div>
               </div>
               <div class="dropdown">
-                <img className="images" src={Home9} />
+                <img className="images" src={Home9} alt=""/>
                 <h6 className='set3'>Grocery</h6>
                 <div class="dropdown-content">
                   <Link to='/television'>
-                    <a href="#">Televisions</a>
+                    <p>Televisions</p>
                   </Link>
                   <Link to='men'>
-                    <a href="#">Styles for men </a>
+                    <p>Styles for men </p>
                   </Link>
 
                   <Link to='saree'>
-                    <a href="#">Styles for women</a>
+                    <p>Styles for women</p>
                   </Link>
                   <Link to='spray'>
-                    <a href="#"> Deodrant Sprays</a>
+                    <p> Deodrant Sprays</p>
                   </Link>
                   <Link to='/watch'>
-                    <a href="#">watches</a>
+                    <p>watches</p>
                   </Link>
                   <Link to='mobiles'>
 
-                    <a href="#">Mobiles</a>
+                    <p>Mobiles</p>
                   </Link>
                   <Link to='curten'>
-                    <a href="#">Curtens</a>
+                    <p>Curtens</p>
                   </Link>
                   <Link to='electronics'>
-                    <a href="#">Electronics</a>
+                    <p>Electronics</p>
                   </Link>
                   <Link to='pouch'>
-                    <a href="#">Mobile Pouches</a>
+                    <p>Mobile Pouches</p>
                   </Link>
                   <Link to='pendrive'>
-                    <a href="#"> pendrive</a>
+                    <p> pendrive</p>
                   </Link>
 
                 </div>
               </div>
               <div class="dropdown">
-                <img className="images" src={Home4} />
+                <img className="images" src={Home4} alt=""/>
                 <h6 className='set3'>Electronics</h6>
                 <div class="dropdown-content">
                   <Link to='/television'>
-                    <a href="#">Televisions</a>
+                    <p>Televisions</p>
                   </Link>
                   <Link to='men'>
-                    <a href="#">Styles for men </a>
+                    <p>Styles for men </p>
                   </Link>
 
                   <Link to='saree'>
-                    <a href="#">Styles for women</a>
+                    <p>Styles for women</p>
                   </Link>
                   <Link to='spray'>
-                    <a href="#"> Deodrant Sprays</a>
+                    <p> Deodrant Sprays</p>
                   </Link>
                   <Link to='/watch'>
-                    <a href="#">watches</a>
+                    <p>watches</p>
                   </Link>
                   <Link to='mobiles'>
 
-                    <a href="#">Mobiles</a>
+                    <p>Mobiles</p>
                   </Link>
                   <Link to='curten'>
-                    <a href="#">Curtens</a>
+                    <p>Curtens</p>
                   </Link>
                   <Link to='electronics'>
-                    <a href="#">Electronics</a>
+                    <p>Electronics</p>
                   </Link>
                   <Link to='pouch'>
-                    <a href="#">Mobile Pouches</a>
+                    <p>Mobile Pouches</p>
                   </Link>
                   <Link to='pendrive'>
-                    <a href="#"> pendrive</a>_
+                    <p> pendrive</p>_
                   </Link>
 
                 </div>
               </div>
               <div class="dropdown">
-                <img className="images" src={Home5} />
+                <img className="images" src={Home5} alt=""/>
                 <h6 className='set3'>Home</h6>
                 <div class="dropdown-content">
                   <Link to='/television'>
-                    <a href="#">Televisions</a>
+                    <p>Televisions</p>
                   </Link>
                   <Link to='men'>
-                    <a href="#">Styles for men </a>
+                    <p>Styles for men </p>
                   </Link>
 
                   <Link to='saree'>
-                    <a href="#">Styles for women</a>
+                    <p>Styles for women</p>
                   </Link>
                   <Link to='spray'>
-                    <a href="#"> Deodrant Sprays</a>
+                    <p> Deodrant Sprays</p>
                   </Link>
                   <Link to='/watch'>
-                    <a href="#">watches</a>
+                    <p>watches</p>
                   </Link>
                   <Link to='mobiles'>
 
-                    <a href="#">Mobiles</a>
+                    <p>Mobiles</p>
                   </Link>
                   <Link to='curten'>
-                    <a href="#">Curtens</a>
+                    <p>Curtens</p>
                   </Link>
                   <Link to='electronics'>
-                    <a href="#">Electronics</a>
+                    <p>Electronics</p>
                   </Link>
                   <Link to='pouch'>
-                    <a href="#">Mobile Pouches</a>
+                    <p>Mobile Pouches</p>
                   </Link>
                   <Link to='pendrive'>
-                    <a href="#"> pendrive</a>
+                    <p> pendrive</p>
                   </Link>
                 </div>
               </div>
 
               <div class="dropdown">
-                <img className="images" src={Home6} />
+                <img className="images" src={Home6} alt=""/>
                 <h6 className='set3'>Appliances</h6>
                 <div class="dropdown-content">
                   <Link to='/television'>
-                    <a href="#">Televisions</a>
+                    <p>Televisions</p>
                   </Link>
                   <Link to='men'>
-                    <a href="#">Styles for men </a>
+                    <p>Styles for men </p>
                   </Link>
 
                   <Link to='saree'>
-                    <a href="#">Styles for women</a>
+                    <p>Styles for women</p>
                   </Link>
                   <Link to='spray'>
-                    <a href="#"> Deodrant Sprays</a>
+                    <p> Deodrant Sprays</p>
                   </Link>
                   <Link to='/watch'>
-                    <a href="#">watches</a>
+                    <p>watches</p>
                   </Link>
                   <Link to='mobiles'>
 
-                    <a href="#">Mobiles</a>
+                    <p>Mobiles</p>
                   </Link>
                   <Link to='curten'>
-                    <a href="#">Curtens</a>
+                    <p>Curtens</p>
                   </Link>
                   <Link to='electronics'>
-                    <a href="#">Electronics</a>
+                    <p>Electronics</p>
                   </Link>
                   <Link to='pouch'>
-                    <a href="#">Mobile Pouches</a>
+                    <p>Mobile Pouches</p>
                   </Link>
                   <Link to='pendrive'>
-                    <a href="#"> pendrive</a>
+                    <p> pendrive</p>
                   </Link>
                 </div>
               </div>
               <div class="dropdown">
-                <img className="images" src={Home8} />
+                <img className="images" src={Home8} alt=""/>
                 <h6 className='set3'>Toys</h6>
                 <div class="dropdown-content">
                   <Link to='/television'>
-                    <a href="#">Televisions</a>
+                    <p>Televisions</p>
                   </Link>
                   <Link to='men'>
-                    <a href="#">Styles for men </a>
+                    <p>Styles for men </p>
                   </Link>
 
                   <Link to='saree'>
-                    <a href="#">Styles for women</a>
+                    <p>Styles for women</p>
                   </Link>
                   <Link to='spray'>
-                    <a href="#"> Deodrant Sprays</a>
+                    <p> Deodrant Sprays</p>
                   </Link>
                   <Link to='/watch'>
-                    <a href="#">watches</a>
+                    <p>watches</p>
                   </Link>
                   <Link to='mobiles'>
 
-                    <a href="#">Mobiles</a>
+                    <p>Mobiles</p>
                   </Link>
                   <Link to='curten'>
-                    <a href="#">Curtens</a>
+                    <p>Curtens</p>
                   </Link>
                   <Link to='electronics'>
-                    <a href="#">Electronics</a>
+                    <p>Electronics</p>
                   </Link>
                   <Link to='pouch'>
-                    <a href="#">Mobile Pouches</a>
+                    <p>Mobile Pouches</p>
                   </Link>
                   <Link to='pendrive'>
-                    <a href="#"> pendrive</a>
+                    <p> pendrive</p>
                   </Link>
 
                 </div>
@@ -320,16 +320,16 @@ export default function Home() {
             <div class="carousel-inner">
 
               <div class="carousel-item active">
-                <img src={Pro1} class="img-responsive" />
+                <img src={Pro1} alt=""class="img-responsive" />
 
               </div>
 
               <div class="carousel-item">
-                <img src={Pro2} class="img-responsive" />
+                <img src={Pro2} alt=""class="img-responsive" />
 
               </div>
               <div class="carousel-item">
-                <img src={Pro3} class="img-responsive" />
+                <img src={Pro3} alt=""class="img-responsive" />
 
               </div>
 
@@ -350,7 +350,7 @@ export default function Home() {
           <div className="row header__set4">
             <Link to='./laptop'>
               <div className='header__deal3'>
-                <img className="header__1" src={Deal7} />
+                <img className="header__1" src={Deal7} alt=""/>
                 <h5 className='set4'>Laptops</h5>
                 <span className='set4'>Upto 20% off + 10% extra Off</span>
                 <p className='set4'>Great savings</p>
@@ -359,7 +359,7 @@ export default function Home() {
             <Link to='/blanket'>
               <div classnmae='r1'>
                 <div className='header__deal3'>
-                  <img className="header__7" src={Deal3} />
+                  <img className="header__7" src={Deal3} alt=""/>
                   <h5 className='set4'>Blankets</h5>
                   <span className='set4'>Upto 70% off</span>
                   <p className='set4'> Super saver deal</p>
@@ -370,7 +370,7 @@ export default function Home() {
 
             <Link to='/television'>
               <div className='header__deal3'>
-                <img className="header__2" src={Deal5} />
+                <img className="header__2" src={Deal5} alt=""/>
                 <h5 className='set4'> Televisions Upto 48 Inches</h5>
                 <span className='set4'>Upto 50% off</span>
                 <p className='set4'>LG and more</p>
@@ -379,7 +379,7 @@ export default function Home() {
             </Link>
             <Link to='/electronics'>
               <div className='header__deal3'>
-                <img className="header__1" src={Deal4} />
+                <img className="header__1" src={Deal4}alt="" />
                 <h5 className='set4'>Electronics</h5>
                 <span className='set4'>Upto 30% off</span>
                 <p className='set4'>Super saver deal</p>
@@ -387,7 +387,7 @@ export default function Home() {
             </Link>
             <Link to='/Watch'>
               <div className='header__4'>
-                <img className="header__3" src={Deal6} />
+                <img className="header__3" src={Deal6} alt="" />
                 <h5 className='set4'>Watches</h5>
                 <span className='set4'>10% Extra off</span>
 
@@ -395,7 +395,7 @@ export default function Home() {
             </Link>
             <Link to='/Saree'>
               <div className='header__deal3'>
-                <img className="header__1" src={Deal1} />
+                <img className="header__1" src={Deal1} alt=""/>
                 <h5 className='set4'>Sarees</h5>
                 <span className='set4'>Under 499</span>
                 <p className='set4'>Davatra saree and more</p>
@@ -403,7 +403,7 @@ export default function Home() {
             </Link>
             <Link to='/men'>
               <div className='header__deal'>
-                <img className="header__Today7" src={Top3} />
+                <img className="header__Today7" src={Top3}alt="" />
                 <h5 className='set4'>Styles for men</h5>
                 <span className='set4'>Upto 30% off</span>
                 <p className='set4'>Super saver deal</p>
@@ -422,7 +422,7 @@ export default function Home() {
           <div className="row header__set5">
             <Link to='/pendrive'>
               <div className='home3'>
-                <img className="header__1" src={D1} />
+                <img className="header__1" src={D1} alt=""/>
                 <h5 className='set4'>Pendrives</h5>
                 <span className='set4'>Upto 20% off +5%extra</span>
                 <p className='set4'>Great savings</p>
@@ -431,7 +431,7 @@ export default function Home() {
             <Link to='/pouch'>
               <div classnmae='r1'>
                 <div className='home3'>
-                  <img className="header__5" src={D3} />
+                  <img className="header__5" src={D3} alt=""/>
                   <h5 className='set4'>Mobile pouches</h5>
                   <span className='set4'>Upto 70% off</span>
                   <p className='set4'>Super saver deal</p>
@@ -442,7 +442,7 @@ export default function Home() {
 
             <Link to='/bottle'>
               <div className='home3'>
-                <img className="header__5" src={D5} />
+                <img className="header__5" src={D5} alt=""/>
                 <h5 className='set4'> thermosteel bottle</h5>
                 <span className='set4'>Upto 50% off</span>
                 <p className='set4'>4,300 Ratings </p>
@@ -451,7 +451,7 @@ export default function Home() {
             </Link>
             <Link to='/curten'>
               <div className='home3'>
-                <img className="header__1" src={D4} />
+                <img className="header__1" src={D4} alt=""/>
                 <h5 className='set4'>curtens for house</h5>
                 <span className='set4'>Upto 30% off</span>
                 <p className='set4'>Super saver deal</p>
@@ -459,7 +459,7 @@ export default function Home() {
             </Link>
             <Link to='/furniture'>
               <div className='home3'>
-                <img className="header__7" src={D6} />
+                <img className="header__7" src={D6} alt=""/>
                 <h5 className='set4'>Furniture </h5>
                 {/* <button className='b1'>4.7
                                     <StarIcon /></button> */}
@@ -470,7 +470,7 @@ export default function Home() {
             </Link>
             <Link to='/spray'>
               <div className='home3'>
-                <img className="header__1" src={D2} />
+                <img className="header__1" src={D2} alt=""/>
                 <h5 className='set4'>Deodorant Spray</h5>
                 <span className='set4'>Under 199</span>
                 <p className='set4'>Super saver deal</p>

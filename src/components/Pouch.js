@@ -23,36 +23,36 @@ export default function Pouch(id, price, title, image) {
 
                         <div class="dropdown-content">
                             <Link to='/television'>
-                                <a href="#">Televisions</a>
+                                <p>Televisions</p>
                             </Link>
                             <Link to='men'>
-                                <a href="#">Styles for men </a>
+                                <p>Styles for men </p>
                             </Link>
 
                             <Link to='saree'>
-                                <a href="#">Styles for women</a>
+                                <p>Styles for women</p>
                             </Link>
                             <Link to='spray'>
-                                <a href="#"> Deodrant Sprays</a>
+                                <p> Deodrant Sprays</p>
                             </Link>
                             <Link to='/watch'>
-                                <a href="#">watches</a>
+                                <p>watches</p>
                             </Link>
                             <Link to='mobiles'>
 
-                                <a href="#">Mobiles</a>
+                                <p>Mobiles</p>
                             </Link>
                             <Link to='curten'>
-                                <a href="#">Curtens</a>
+                                <p>Curtens</p>
                             </Link>
                             <Link to='electronics'>
-                                <a href="#">Electronics</a>
+                                <p>Electronics</p>
                             </Link>
                             <Link to='pouch'>
-                                <a href="#">Mobile Pouches</a>
+                                <p>Mobile Pouches</p>
                             </Link>
                             <Link to='pendrive'>
-                                <a href="#"> pendrive</a>
+                                <p> pendrive</p>
                             </Link>
 
                         </div>
@@ -64,36 +64,36 @@ export default function Pouch(id, price, title, image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -106,36 +106,36 @@ export default function Pouch(id, price, title, image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -148,36 +148,36 @@ export default function Pouch(id, price, title, image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -190,36 +190,36 @@ export default function Pouch(id, price, title, image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -232,36 +232,36 @@ export default function Pouch(id, price, title, image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -273,10 +273,10 @@ export default function Pouch(id, price, title, image) {
             <div className='row3'>
                 <div className="row header__set4">
                     <div className='header__deal3'>
-                        <img className="header__Today7" src={B1} />
+                        <img className="header__Today7" src={B1} alt=""/>
                         <h6 className='set4'>mobom Back Cover for Oppo A5 2020 </h6>
                         <h6>(Transparent, Dual Protection, Silicon)</h6>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
 
                         <h6>₹179   77% off
 
@@ -288,11 +288,11 @@ export default function Pouch(id, price, title, image) {
                     </div>
 
                     <div className='header__deal3'>
-                        <img className="header__Today7" src={B2} />
+                        <img className="header__Today7" src={B2} alt=""/>
                         <h6 className='set4'>mobom Back Cover for Vivo V20 Pro  </h6>
                         <h6>(Multicolor, Dual Protection, Silicon)</h6>
 
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         <h6>₹199   77% off
 
                             Hurry, Only 10 left!</h6>
@@ -303,10 +303,10 @@ export default function Pouch(id, price, title, image) {
                         </div>
                     </div>
                     <div className='header__deal3'>
-                        <img className="header__Today7" src={B4} />
+                        <img className="header__Today7" src={B4}alt="" />
                         <h6 className='set4'>mobom Back Cover for Vivo Y19, Vivo U20  </h6>
                         <h6> (Transparent, Dual Protection, Silicon)</h6>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip}alt="" />
                         <span>Upto 50% off</span>
                         <h6>₹179   77% off
 
@@ -320,10 +320,10 @@ export default function Pouch(id, price, title, image) {
                     </div>
 
                     <div className='header__deal3'>
-                        <img className="header__Today7" src={B6} />
+                        <img className="header__Today7" src={B6} alt=""/>
                         <h6 className='set4'>mobom Back Cover for Oppo A53</h6>
                         <h6 >(Multicolor, Dual Protection, Silicon)</h6>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         <h6>₹149   50% off
 
                             Hurry, Only 1 left!</h6>
@@ -337,10 +337,10 @@ export default function Pouch(id, price, title, image) {
 
 
                     <div className='header__deal3'>
-                        <img className="header__Today7" src={B5} />
+                        <img className="header__Today7" src={B5} alt=""/>
                         <h6 className='set4'>mobom Back Cover for Samsung Galaxy F41</h6>
                         <h6 >(Multicolor, Dual Protection, Silicon)</h6>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         <h6>₹179   77% off
 
                             Hurry, Only 3 left!</h6>
@@ -350,10 +350,10 @@ export default function Pouch(id, price, title, image) {
                         </div>
                     </div>
                     <div className='header__deal3'>
-                        <img className="header__Today7" src={B3} />
+                        <img className="header__Today7" src={B3} alt=""/>
                         <h6 className='set4'>mobom Back Cover for Vivo Y50 </h6>
                         <h6 >(Multicolor, Dual Protection, Silicon)</h6>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         <h6>₹199   67% off
 
                             Hurry, Only 3 left!</h6>

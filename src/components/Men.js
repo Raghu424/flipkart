@@ -20,36 +20,36 @@ export default function Men() {
 
                         <div class="dropdown-content">
                             <Link to='/television'>
-                                <a href="#">Televisions</a>
+                                <p>Televisions</p>
                             </Link>
                             <Link to='men'>
-                                <a href="#">Styles for men </a>
+                                <p>Styles for men </p>
                             </Link>
 
                             <Link to='saree'>
-                                <a href="#">Styles for women</a>
+                                <p>Styles for women</p>
                             </Link>
                             <Link to='spray'>
-                                <a href="#"> Deodrant Sprays</a>
+                                <p> Deodrant Sprays</p>
                             </Link>
                             <Link to='/watch'>
-                                <a href="#">watches</a>
+                                <p>watches</p>
                             </Link>
                             <Link to='mobiles'>
 
-                                <a href="#">Mobiles</a>
+                                <p>Mobiles</p>
                             </Link>
                             <Link to='curten'>
-                                <a href="#">Curtens</a>
+                                <p>Curtens</p>
                             </Link>
                             <Link to='electronics'>
-                                <a href="#">Electronics</a>
+                                <p>Electronics</p>
                             </Link>
                             <Link to='pouch'>
-                                <a href="#">Mobile Pouches</a>
+                                <p>Mobile Pouches</p>
                             </Link>
                             <Link to='pendrive'>
-                                <a href="#"> pendrive</a>
+                                <p> pendrive</p>
                             </Link>
 
                         </div>
@@ -61,36 +61,36 @@ export default function Men() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -103,36 +103,36 @@ export default function Men() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -145,36 +145,36 @@ export default function Men() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -187,36 +187,36 @@ export default function Men() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -229,36 +229,36 @@ export default function Men() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -272,9 +272,9 @@ export default function Men() {
             <div className='row4'>
                 <div className="row header__set4">
                     <div className='header__deal3'>
-                        <img className="header__Today3" src={B1} />
+                        <img className="header__Today3" src={B1} alt=""/>
                           <h6 className='set4'>Men Regular Fit Solid Mandarin Collar Casual Shirt</h6> 
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt="" />
                         <span>Upto 20% off + 10% extra Off</span>
                         <h6>specialprice:₹539</h6>
                         <div className='but5'>
@@ -284,10 +284,10 @@ export default function Men() {
                     </div>
 
                     <div className='header__deal3'>
-                        <img className="header__Today3" src={B2} />
+                        <img className="header__Today3" src={B2} alt="" />
                         <h6 className='set4'> Men Slim Fit Checkered Spread Collar Casual Shirt</h6>
                       
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         <span>Upto 70% off</span>
                         <h6>specialprice:₹739</h6>
                         <div className='but5'>
@@ -296,9 +296,9 @@ export default function Men() {
                         </div>
                     </div>
                     <div className='header__deal3'>
-                        <img className="header__Today3" src={B4} />
+                        <img className="header__Today3" src={B4}alt="" />
                         <h6 className='set4'>Men Regular Fit Solid Mandarin Collar Black Casual Shirt </h6>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         <span>Upto 50% off</span>
                         <h6>specialprice:₹439</h6>
                         <div className='but5'>
@@ -310,9 +310,9 @@ export default function Men() {
                     </div>
 
                     <div className='header__deal3'>
-                        <img className="header__Today5" src={B6} />
+                        <img className="header__Today5" src={B6} alt=""/>
                         <h6 className='set4'>Men Regular Fit Solid Spread Collar Red Casual Shirt</h6>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         <span>Upto 40% off</span>
                         <h6>specialprice:₹499</h6>
                         <div className='but5'>
@@ -325,9 +325,9 @@ export default function Men() {
 
 
                     <div className='header__deal3'>
-                        <img className="header__Today5" src={B5} />
+                        <img className="header__Today5" src={B5} alt="" />
                         <h6 className='set4'>Men Regular Fit Color Block Button Down  Casual Shirt</h6>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         <span>Upto 20% off</span>
                         <h6>specialprice:₹739</h6>
                         <div className='but5'>
@@ -336,9 +336,9 @@ export default function Men() {
                         </div>
                     </div>
                     <div className='header__deal3'>
-                        <img className="header__Today5" src={B3} />
+                        <img className="header__Today5" src={B3} alt=""/>
                         <h6 className='set4'>Men Regular Fit Solid Mandarin Collar Casual Shirt</h6>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         <span>Upto 30% off</span>
                         <h6>specialprice:₹599</h6>
                         <div className='but5'>

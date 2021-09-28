@@ -21,36 +21,36 @@ export default function Spray() {
 
                         <div class="dropdown-content">
                             <Link to='/television'>
-                                <a href="#">Televisions</a>
+                                <p>Televisions</p>
                             </Link>
                             <Link to='men'>
-                                <a href="#">Styles for men </a>
+                                <p>Styles for men </p>
                             </Link>
 
                             <Link to='saree'>
-                                <a href="#">Styles for women</a>
+                                <p>Styles for women</p>
                             </Link>
                             <Link to='spray'>
-                                <a href="#"> Deodrant Sprays</a>
+                                <p> Deodrant Sprays</p>
                             </Link>
                             <Link to='/watch'>
-                                <a href="#">watches</a>
+                                <p>watches</p>
                             </Link>
                             <Link to='mobiles'>
 
-                                <a href="#">Mobiles</a>
+                                <p>Mobiles</p>
                             </Link>
                             <Link to='curten'>
-                                <a href="#">Curtens</a>
+                                <p>Curtens</p>
                             </Link>
                             <Link to='electronics'>
-                                <a href="#">Electronics</a>
+                                <p>Electronics</p>
                             </Link>
                             <Link to='pouch'>
-                                <a href="#">Mobile Pouches</a>
+                                <p>Mobile Pouches</p>
                             </Link>
                             <Link to='pendrive'>
-                                <a href="#"> pendrive</a>
+                                <p> pendrive</p>
                             </Link>
 
                         </div>
@@ -62,36 +62,36 @@ export default function Spray() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -104,36 +104,36 @@ export default function Spray() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -146,36 +146,36 @@ export default function Spray() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -188,36 +188,36 @@ export default function Spray() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -230,36 +230,36 @@ export default function Spray() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -275,7 +275,7 @@ export default function Spray() {
             <div className='head1'>
                 <div className='t1'>
                     <div>
-                        <img className='t9' src={T1} />
+                        <img className='t9' src={T1} alt=""/>
 
                     </div>
                     <div className='t3'>
@@ -283,7 +283,7 @@ export default function Spray() {
 
                         <button className='b1'>4.3
                             <StarIcon /></button>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         {/* <span>3,300 Ratings & 577 Reviews</span> */}
                         <h6>₹299 35% off
 
@@ -304,13 +304,13 @@ export default function Spray() {
                 <div className='t7'>
                     <div className='t4'>
                         <div>
-                            <img className='t9' src={T2} />
+                            <img className='t9' src={T2} alt=""/>
                         </div>
                         <div className='t3'>
                             <h6>PARK AVENUE Original Deo Storm Deodorant Spray - For Men & Women  (150 ml, Pack of 2)</h6>
 
                             <button className='b1'>4.5 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>3,300 Ratings & 577 Reviews</span>
                             <h6>₹259  34% off
 
@@ -329,14 +329,14 @@ export default function Spray() {
                 <div className='t7'>
                     <div className='t6'>
                         <div>
-                            <img className='t9' src={T3} />
+                            <img className='t9' src={T3} alt=""/>
                         </div>
                         <div className='t3'>
                             <h6> DENVER Hamilton Deodorant Deodorant Spray - For Men  (400 ml, Pack of 2)</h6>
 
                             <button className='b1'>4.5
                                 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>3,300 Ratings & 577 Reviews</span>
                             <h6>₹321 38% off
 
@@ -359,14 +359,14 @@ export default function Spray() {
                 <div className='head2'>
                     <div className='t1'>
                         <div>
-                            <img className='t9' src={T4} />
+                            <img className='t9' src={T4} alt=""/>
                         </div>
                         <div className='t3'>
                             <h6>SET WET Cool Avatar Body Perfume Deodorant Spray - For Men  (300 ml, Pack of 2)</h6>
 
                             <button className='b1'>4.3
                                 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             {/* <span>3,300 Ratings & 577 Reviews</span> */}
                             <h6>₹191 52% off
 
@@ -385,14 +385,14 @@ export default function Spray() {
                     <div className='t7'>
                         <div className='t4'>
                             <div>
-                                <img className='t10' src={T5} />
+                                <img className='t10' src={T5} alt=""/>
                             </div>
                             <div className='t3'>
                                 <h6>Eva Deodorant_for_Women Fresh and Doll Deodorant Spray - For Women  (150 ml, Pack of 2)</h6>
 
                                 <button className='b1'>4.7
                                     <StarIcon /></button>
-                                <img className='m4' src={Flip} />
+                                <img className='m4' src={Flip} alt=""/>
                                 <span>3,300 Ratings & 577 Reviews</span>
                                 <h6>₹280
 
@@ -410,14 +410,14 @@ export default function Spray() {
                     <div className='t7'>
                         <div className='t6'>
                             <div>
-                                <img className='t9' src={T6} />
+                                <img className='t9' src={T6} alt=""/>
                             </div>
                             <div className='t3'>
                                 <h6>AXE Signature Rogue No Gas Body Deodorant For Men Body Spray - For Men  (308 ml, Pack of 2)</h6>
 
                                 <button className='b1'>4.4
                                     <StarIcon /></button>
-                                <img className='m4' src={Flip} />
+                                <img className='m4' src={Flip} alt=""/>
 
                                 <h6>₹511 ₹5303% off
 

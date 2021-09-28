@@ -24,36 +24,36 @@ export default function Blanket(id,price,title,image) {
 
                         <div class="dropdown-content">
                             <Link to='/television'>
-                                <a href="#">Televisions</a>
+                                <p>Televisions</p>
                             </Link>
                             <Link to='men'>
-                                <a href="#">Styles for men </a>
+                                <p>Styles for men </p>
                             </Link>
 
                             <Link to='saree'>
-                                <a href="#">Styles for women</a>
+                                <p>Styles for women</p>
                             </Link>
                             <Link to='spray'>
-                                <a href="#"> Deodrant Sprays</a>
+                                <p> Deodrant Sprays</p>
                             </Link>
                             <Link to='/watch'>
-                                <a href="#">watches</a>
+                                <p>watches</p>
                             </Link>
                             <Link to='mobiles'>
 
-                                <a href="#">Mobiles</a>
+                                <p>Mobiles</p>
                             </Link>
                             <Link to='curten'>
-                                <a href="#">Curtens</a>
+                                <p>Curtens</p>
                             </Link>
                             <Link to='electronics'>
-                                <a href="#">Electronics</a>
+                                <p>Electronics</p>
                             </Link>
                             <Link to='pouch'>
-                                <a href="#">Mobile Pouches</a>
+                                <p>Mobile Pouches</p>
                             </Link>
                             <Link to='pendrive'>
-                                <a href="#"> pendrive</a>
+                                <p> pendrive</p>
                             </Link>
 
                         </div>
@@ -65,36 +65,36 @@ export default function Blanket(id,price,title,image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -107,36 +107,36 @@ export default function Blanket(id,price,title,image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -149,36 +149,36 @@ export default function Blanket(id,price,title,image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -191,36 +191,36 @@ export default function Blanket(id,price,title,image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -233,36 +233,36 @@ export default function Blanket(id,price,title,image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -275,10 +275,10 @@ export default function Blanket(id,price,title,image) {
                 <div className='row3'>
                     <div className="row header__set4">
                         <div className='header__deal3'>
-                            <img className="header__Today6" src={B1} />
+                            <img className="header__Today6" src={B1} alt="img15"/>
                               <h6 className='set4'>Powify Thermosteel Flip Lid Flask,Hot&Cold Water Bottle </h6> 
                               <h6>500 ml Flask  (Pack of 1, Steel/Chrome, Steel)</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 20% off + 10% extra Off</span>
                             <h6>specialprice:₹1139</h6>
                             <div className='but5'>
@@ -288,11 +288,11 @@ export default function Blanket(id,price,title,image) {
                         </div>
 
                         <div className='header__deal3'>
-                            <img className="header__Today6" src={B2} />
+                            <img className="header__Today6" src={B2}  alt="" />
                             <h6 className='set4'>MILTON PRUDENT-800 Thermosteel Hot & Cold </h6>
                             <h6>Water Bottle 810 ml Bottle  (Pack of 1, Blue, Steel)</h6>
                           
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 70% off</span>
                             <h6>specialprice:₹739</h6>
                             <div className='but5'>
@@ -301,10 +301,10 @@ export default function Blanket(id,price,title,image) {
                             </div>
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today6" src={B4} />
+                            <img className="header__Today6" src={B4} alt="" />
                             <h6 className='set4'>MILTON BLISS 900 Thermosteel Vaccum Insulated   </h6>
                             <h6>Hot & Cold Wate Bottle 820 ml Flask </h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1439</h6>
                             <div className='but5'>
@@ -316,10 +316,10 @@ export default function Blanket(id,price,title,image) {
                         </div>
 
                         <div className='header__deal3'>
-                            <img className="header__Today5" src={B6} />
+                            <img className="header__Today5" src={B6} alt="" />
                             <h6 className='set4'>Cltllzen Thermosteel Flip Flask 24hrs Hot </h6>
                             <h6>Water Bottle 500 ml Flask </h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 40% off</span>
                             <h6>₹499 ₹649 23% off</h6>
                             <div className='but5'>
@@ -332,10 +332,10 @@ export default function Blanket(id,price,title,image) {
 
 
                         <div className='header__deal3'>
-                            <img className="header__Today5" src={B5} />
+                            <img className="header__Today5" src={B5} alt=""/>
                             <h6 className='set4'>MILTON Elfin-160 Thermosteel Hot & Cold  </h6>
                             <h6>Water Bottle 160 ml Bottle  (Pack of 1, Silver, Steel)</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 20% off</span>
                             <h6>specialprice:₹939</h6>
                             <div className='but5'>
@@ -344,10 +344,10 @@ export default function Blanket(id,price,title,image) {
                             </div>
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today5" src={B3} />
+                            <img className="header__Today5" src={B3} alt=""/>
                             <h6 className='set4'>MILTON BLISS 900 Thermosteel Vaccum Insulated </h6>
                             <h6> Hot & Cold Water Bottle 820 ml Flask</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 30% off</span>
                             <h6>specialprice:₹1599</h6>
                             <div className='but5'>

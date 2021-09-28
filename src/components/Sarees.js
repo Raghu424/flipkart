@@ -21,36 +21,36 @@ export default function Sarees(id,price,title,image) {
 
                         <div class="dropdown-content">
             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
 
             </div>
@@ -62,36 +62,36 @@ export default function Sarees(id,price,title,image) {
 
                             <div class="dropdown-content">
                             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
 
                             </div>
@@ -104,36 +104,36 @@ export default function Sarees(id,price,title,image) {
 
                             <div class="dropdown-content">
                             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
 
                             </div>
@@ -146,36 +146,36 @@ export default function Sarees(id,price,title,image) {
 
                             <div class="dropdown-content">
                             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
 
                             </div>
@@ -188,36 +188,36 @@ export default function Sarees(id,price,title,image) {
 
                             <div class="dropdown-content">
                             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
 
                             </div>
@@ -230,36 +230,36 @@ export default function Sarees(id,price,title,image) {
 
                             <div class="dropdown-content">
                             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
                             </div>
                         </div>
@@ -274,9 +274,9 @@ export default function Sarees(id,price,title,image) {
                 <div className='row4'>
                     <div className="row header__set4">
                         <div className='header__deal7'>
-                            <img className="header__Today3" src={B1} />
+                            <img className="header__Today3" src={B1} alt=""/>
                             <h6 className='set4'>Embellished Cotton Silk Saree</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 20% off + 10% </span>
                             
                             <h6>specialprice:₹939</h6>
@@ -288,10 +288,10 @@ export default function Sarees(id,price,title,image) {
                         </div>
 
                         <div className='header__deal7'>
-                            <img className="header__Today3" src={B2} />
+                            <img className="header__Today3" src={B2} alt=""/>
                             <h6 className='set4'>Printed Mysore Art Silk Saree</h6>
                           
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 70% off</span>
                             <h6>specialprice:₹739</h6>
                             <span>5,098 ratings and 2,771 reviews</span>
@@ -301,9 +301,9 @@ export default function Sarees(id,price,title,image) {
                             </div>
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today3" src={B3} />
+                            <img className="header__Today3" src={B3} alt=""/>
                             <h6 className='set4'>Polka Print Daily Wear Georgette Saree</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹539</h6>
                             <span>5,098 ratings and 1,671 reviews</span>
@@ -314,10 +314,10 @@ export default function Sarees(id,price,title,image) {
 
 
                         </div>
-                        <div className='header__deal3'>
-                            <img className="header__Today3" src={B4} />
+                        <div className='header__deal3'>alt=""
+                            <img className="header__Today3" src={B4} alt=""/>
                             <h6 className='set4'>Printed, Daily Wear Georgette Saree</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1439</h6>
                             <span>45,098 ratings and 5,671 reviews</span>
@@ -329,9 +329,9 @@ export default function Sarees(id,price,title,image) {
 
                         </div>
                         <div className='header__deal7'>
-                            <img className="header__Today3" src={B5} />
+                            <img className="header__Today3" src={B5} alt=""/>
                             <h6 className='set4'>Self  Silk Blend, Cotton Blend Saree  </h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1439</h6>
                             <span>23,098 ratings and 3,671 reviews</span>
@@ -348,9 +348,9 @@ export default function Sarees(id,price,title,image) {
 
 
                         <div className='header__deal3'>
-                            <img className="header__Today3" src={B6} />
+                            <img className="header__Today3" src={B6}alt="" />
                             <h6 className='set4'>Embroidered Fashion Pure Silk Saree</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1239</h6>
                             <span>15,098 ratings and 2,571 reviews</span>
@@ -362,9 +362,9 @@ export default function Sarees(id,price,title,image) {
 
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today3" src={B7} />
+                            <img className="header__Today3" src={B7} alt=""/>
                             <h6 className='set4'>Woven Banarasi Silk Blend, Jacquard Saree </h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1099</h6>
                             <span>45,098 ratings and 5,671 reviews</span>
@@ -376,9 +376,9 @@ export default function Sarees(id,price,title,image) {
 
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today3" src={B8} />
+                            <img className="header__Today3" src={B8} alt=""/>
                             <h6 className='set4'>Polka Print Daily Wear Georgette Saree </h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>Upto 50% off</span>
                            
                             <h6>specialprice:₹999</h6>

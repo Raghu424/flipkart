@@ -21,36 +21,36 @@ export default function Tv() {
 
                         <div class="dropdown-content">
                             <Link to='/television'>
-                                <a href="#">Televisions</a>
+                                <p>Televisions</p>
                             </Link>
                             <Link to='men'>
-                                <a href="#">Styles for men </a>
+                                <p>Styles for men </p>
                             </Link>
 
                             <Link to='saree'>
-                                <a href="#">Styles for women</a>
+                                <p>Styles for women</p>
                             </Link>
                             <Link to='spray'>
-                                <a href="#"> Deodrant Sprays</a>
+                                <p> Deodrant Sprays</p>
                             </Link>
                             <Link to='/watch'>
-                                <a href="#">watches</a>
+                                <p>watches</p>
                             </Link>
                             <Link to='mobiles'>
 
-                                <a href="#">Mobiles</a>
+                                <p>Mobiles</p>
                             </Link>
                             <Link to='curten'>
-                                <a href="#">Curtens</a>
+                                <p>Curtens</p>
                             </Link>
                             <Link to='electronics'>
-                                <a href="#">Electronics</a>
+                                <p>Electronics</p>
                             </Link>
                             <Link to='pouch'>
-                                <a href="#">Mobile Pouches</a>
+                                <p>Mobile Pouches</p>
                             </Link>
                             <Link to='pendrive'>
-                                <a href="#"> pendrive</a>
+                                <p> pendrive</p>
                             </Link>
 
                         </div>
@@ -62,36 +62,36 @@ export default function Tv() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -104,36 +104,36 @@ export default function Tv() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -146,36 +146,36 @@ export default function Tv() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -188,36 +188,36 @@ export default function Tv() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -230,36 +230,36 @@ export default function Tv() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -274,7 +274,7 @@ export default function Tv() {
             <div className='head1'>
                 <div className='t1'>
                     <div>
-                        <img className='t8' src={T1} />
+                        <img className='t8' src={T1} alt=""/>
 
                     </div>
                     <div className='t3'>
@@ -282,7 +282,7 @@ export default function Tv() {
                         <h6> Hanging Swing Chair Iron Hammock </h6>
                         <button className='b1'>4.3
                             <StarIcon /></button>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         {/* <span>3,300 Ratings & 577 Reviews</span> */}
                         <h6>₹6,899   42% off
 
@@ -302,13 +302,13 @@ Hurry, Only 3 left!</h6>
                 <div className='t7'>
                     <div className='t4'>
                         <div>
-                            <img className='t8' src={T2} />
+                            <img className='t8' src={T2} alt=""/>
                         </div>
                         <div className='t3'>
                             <h6>KS Collection XL Tear Drop Bean Bag Cover</h6>
                             <h6> (Without Beans)  (Brown)</h6>
                             <button className='b1'>4.5 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>3,300 Ratings & 577 Reviews</span>
                             <h6>₹494  83% off</h6>
                             <h6>Bank offer</h6>
@@ -324,14 +324,14 @@ Hurry, Only 3 left!</h6>
                 <div className='t7'>
                     <div className='t6'>
                         <div>
-                            <img className='t8' src={T3} />
+                            <img className='t8' src={T3} alt=""/>
                         </div>
                         <div className='t3'>
                             <h6>Flipkart Perfect Homes Webster Engineered  </h6>
                             <h6> Wood TV Entertainment Unit</h6>
                             <button className='b1'>4.5
                                 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>3,300 Ratings & 577 Reviews</span>
                             <h6>₹16,000 21% off
 
@@ -353,14 +353,14 @@ Or Pay ₹15,750 +  250</h6>
                 <div className='head2'>
                     <div className='t1'>
                         <div>
-                            <img className='t8' src={T4} />
+                            <img className='t8' src={T4} alt=""/>
                         </div>
                         <div className='t3'>
                             <h6>Flipkart Perfect Homes Fabric Office </h6>
                             <h6>Arm Chair  (Black, DIY(Do-It-Yourself))</h6>
                             <button className='b1'>4.3
                                 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             {/* <span>3,300 Ratings & 577 Reviews</span> */}
                             <h6>₹3,490  46% off</h6>
                             <h6>Bank offer</h6>
@@ -376,14 +376,14 @@ Or Pay ₹15,750 +  250</h6>
                     <div className='t7'>
                         <div className='t4'>
                             <div>
-                                <img className='t8' src={T5} />
+                                <img className='t8' src={T5} alt=""/>
                             </div>
                             <div className='t3'>
                                 <h6>Flipkart Perfect Homes Webster Engineered </h6>
                                 <h6>Wood TV Entertainment Unit</h6>
                                 <button className='b1'>4.7
                                     <StarIcon /></button>
-                                <img className='m4' src={Flip} />
+                                <img className='m4' src={Flip} alt=""/>
                                 <span>3,300 Ratings & 577 Reviews</span>
                                 <h6>₹15,990 21% off
 
@@ -400,14 +400,14 @@ Or Pay ₹15,740 +  250</h6>
                     <div className='t7'>
                         <div className='t6'>
                             <div>
-                                <img className='t8' src={T6} />
+                                <img className='t8' src={T6} alt=""/>
                             </div>
                             <div className='t3'>
                                 <h6>Delite Kom Glide Engineered Wood Computer Desk  (Straight, Finish Color - Wenge, Knock Down)</h6>
                               
                                 <button className='b1'>4.4
                                     <StarIcon /></button>
-                                <img className='m4' src={Flip} />
+                                <img className='m4' src={Flip} alt=""/>
                                 <span>3,300 Ratings & 577 Reviews</span>
                                 <h6>₹6,659  32% off
 

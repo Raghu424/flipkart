@@ -21,36 +21,36 @@ export default function Pen() {
 
                         <div class="dropdown-content">
                             <Link to='/television'>
-                                <a href="#">Televisions</a>
+                                <p>Televisions</p>
                             </Link>
                             <Link to='men'>
-                                <a href="#">Styles for men </a>
+                                <p>Styles for men </p>
                             </Link>
 
                             <Link to='saree'>
-                                <a href="#">Styles for women</a>
+                                <p>Styles for women</p>
                             </Link>
                             <Link to='spray'>
-                                <a href="#"> Deodrant Sprays</a>
+                                <p> Deodrant Sprays</p>
                             </Link>
                             <Link to='/watch'>
-                                <a href="#">watches</a>
+                                <p>watches</p>
                             </Link>
                             <Link to='mobiles'>
 
-                                <a href="#">Mobiles</a>
+                                <p>Mobiles</p>
                             </Link>
                             <Link to='curten'>
-                                <a href="#">Curtens</a>
+                                <p>Curtens</p>
                             </Link>
                             <Link to='electronics'>
-                                <a href="#">Electronics</a>
+                                <p>Electronics</p>
                             </Link>
                             <Link to='pouch'>
-                                <a href="#">Mobile Pouches</a>
+                                <p>Mobile Pouches</p>
                             </Link>
                             <Link to='pendrive'>
-                                <a href="#"> pendrive</a>
+                                <p> pendrive</p>
                             </Link>
 
                         </div>
@@ -62,36 +62,36 @@ export default function Pen() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -104,36 +104,36 @@ export default function Pen() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -146,36 +146,36 @@ export default function Pen() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -188,36 +188,36 @@ export default function Pen() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -230,36 +230,36 @@ export default function Pen() {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p>Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p> pendrive</p>
                                 </Link>
 
                             </div>
@@ -273,7 +273,7 @@ export default function Pen() {
             <div className='head1'>
                 <div className='t1'>
                     <div>
-                        <img className='t2' src={T1} />
+                        <img className='t2' src={T1} alt=""/>
 
                     </div>
                     <div className='t3'>
@@ -281,7 +281,7 @@ export default function Pen() {
                         <h6> (Gold, Type A to Micro USB)</h6>
                         <button className='b1'>4.3
                             <StarIcon /></button>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip}alt="" />
                         {/* <span>3,300 Ratings & 577 Reviews</span> */}
                         <h6>₹779 ₹1,400 44% off</h6>
                         <h6>Bank offer</h6>
@@ -299,13 +299,13 @@ export default function Pen() {
                 <div className='t7'>
                     <div className='t4'>
                         <div>
-                            <img className='t2' src={T2} />
+                            <img className='t2' src={T2} alt=""/>
                         </div>
                         <div className='t3'>
                             <h6>SanDisk SDDDC2-128G-I35 128 GB OTG Drive</h6>
                             <h6> (Silver, Black, Type A to Type C)</h6>
                             <button className='b1'>4.5 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>3,300 Ratings & 577 Reviews</span>
                             <h6>₹1,559 ₹2,950 47% off</h6>
                             <h6>Bank offer</h6>
@@ -321,14 +321,14 @@ export default function Pen() {
                 <div className='t7'>
                     <div className='t6'>
                         <div>
-                            <img className='t2' src={T3} />
+                            <img className='t2' src={T3}alt="" />
                         </div>
                         <div className='t3'>
                             <h6>SanDisk Cruzer Blade USB 2.0 32 GB Flash Pen Drive </h6>
                             <h6>(Black, Red)</h6>
                             <button className='b1'>4.5
                                 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>3,300 Ratings & 577 Reviews</span>
                             <h6>₹399 ₹978 59% off</h6>
                             <h6>Bank offer</h6>
@@ -348,14 +348,14 @@ export default function Pen() {
                 <div className='head2'>
                     <div className='t1'>
                         <div>
-                            <img className='t2' src={T4} />
+                            <img className='t2' src={T4}alt="" />
                         </div>
                         <div className='t3'>
                             <h6>SanDisk SDDDC2-128G-I35 128 GB OTG Drive  </h6>
                             <h6>(Silver, Black, Type A to Type C)</h6>
                             <button className='b1'>4.3
                                 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             {/* <span>3,300 Ratings & 577 Reviews</span> */}
                             <h6>₹1,559 ₹2,950 47% off</h6>
                             <h6>Bank offer</h6>
@@ -371,14 +371,14 @@ export default function Pen() {
                     <div className='t7'>
                         <div className='t4'>
                             <div>
-                                <img className='t2' src={T5} />
+                                <img className='t2' src={T5} alt=""/>
                             </div>
                             <div className='t3'>
                                 <h6>SanDisk Ultra Dual Drive M3.0 32 GB OTG Drive </h6>
                                 <h6>(Black, Type A to Micro USB)</h6>
                                 <button className='b1'>4.7
                                     <StarIcon /></button>
-                                <img className='m4' src={Flip} />
+                                <img className='m4' src={Flip} alt=""/>
                                 <span>3,300 Ratings & 577 Reviews</span>
                                 <h6>₹529 ₹850 37% off</h6>
                                 <h6>Bank offer</h6>
@@ -396,14 +396,14 @@ export default function Pen() {
                     <div className='t7'>
                         <div className='t6'>
                             <div>
-                                <img className='t2' src={T6} />
+                                <img className='t2' src={T6} alt=""/>
                             </div>
                             <div className='t3'>
                                 <h6>SanDisk SDCZ48-064G-135/I35 64 GB  </h6>
                                 <h6> Pen Drive  (Black)</h6>
                                 <button className='b1'>4.4
                                     <StarIcon /></button>
-                                <img className='m4' src={Flip} />
+                                <img className='m4' src={Flip} alt=""/>
                                 <span>3,300 Ratings & 577 Reviews</span>
                                 <h6>₹719 ₹1,300 44% off</h6>
                                 <h6>Bank offer</h6>

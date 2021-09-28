@@ -1,8 +1,8 @@
-import React,{useState } from 'react'
+// import React,{useState } from 'react'
 
 import './Login.css';
 import pro4 from '../components/pictures/pro4.png'
-import { Link,useHistory } from 'react-router-dom'
+import { Link} from 'react-router-dom'
 // import {auth} from '../firebase'
 export default function Login() {
 //     let [email, setEmail] = useState('')
@@ -51,7 +51,7 @@ export default function Login() {
                     Recommendations
                 </h6>
                 <div className='log3' >
-                    <img className='log4' src={pro4} />
+                    <img className='log4' src={pro4} alt=""/>
                 </div>
             </div>
 
@@ -78,8 +78,8 @@ export default function Login() {
                             <input class="w3-input" type="text"/><br></br>
                             <input class="w3-input" type="text"  placeholder="Enter your Password" />
                         </form>
-                        <p className='account__text'>By continuing, you agree to Term's <a href='#'>Conditions of Use</a> and <a href='#'>Privacy Notice</a>.</p>
-                        <summary className='account__text1'><a href="#">Need help?</a></summary>
+                        <p className='account__text'>By continuing, you agree to Term's <p>Conditions of Use</p> and <p>Privacy Notice</p></p>
+                        <summary className='account__text1'><p>Need help?</p></summary>
                         <div >
 
                             <button className="a5">Login</button>

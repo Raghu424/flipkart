@@ -24,36 +24,36 @@ export default function Blanket(id,price,title,image) {
 
                         <div class="dropdown-content">
                             <Link to='/television'>
-                                <a href="#">Televisions</a>
+                                <p>Televisions</p>
                             </Link>
                             <Link to='men'>
-                                <a href="#">Styles for men </a>
+                                <p>Styles for men </p>
                             </Link>
 
                             <Link to='saree'>
-                                <a href="#">Styles for women</a>
+                                <p>Styles for women</p>
                             </Link>
                             <Link to='spray'>
-                                <a href="#"> Deodrant Sprays</a>
+                                <p> Deodrant Sprays</p>
                             </Link>
                             <Link to='/watch'>
-                                <a href="#">watches</a>
+                                <p>watches</p>
                             </Link>
                             <Link to='mobiles'>
 
-                                <a href="#">Mobiles</a>
+                                <p>Mobiles</p>
                             </Link>
                             <Link to='curten'>
-                                <a href="#">Curtens</a>
+                                <p>Curtens</p>
                             </Link>
                             <Link to='electronics'>
-                                <a href="#">Electronics</a>
+                                <p>Electronics</p>
                             </Link>
                             <Link to='pouch'>
-                                <a href="#">Mobile Pouches</a>
+                                <p>Mobile Pouches</p>
                             </Link>
                             <Link to='pendrive'>
-                                <a href="#"> pendrive</a>
+                                <p> pendrive</p>
                             </Link>
 
                         </div>
@@ -65,36 +65,36 @@ export default function Blanket(id,price,title,image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p >Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p >Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    <p > Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    <p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p >Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p >Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p >Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p >Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p > pendrive</p>
                                 </Link>
 
                             </div>
@@ -107,162 +107,162 @@ export default function Blanket(id,price,title,image) {
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p >Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p >Styles for men </p>
                                 </Link>
 
-                                <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                <Link to='spree'>
+                                    <p>Styles for women</p>
                                 </Link>
-                                <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                <Link to='sprpy'>
+                                    <p > Deodrpnt Sprpys</p>
                                 </Link>
-                                <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                <Link to='/wptch'>
+                                    <p >wptches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p >Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p >Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p >Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p >Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p > pendrive</p>
                                 </Link>
 
                             </div>
                         </div>
                     </div>
-                    <div className='tv'>
+                    <div clpssNpme='tv'>
 
-                        <div class="dropdown">
-                            <h6 className='E2'>Men</h6>
+                        <div clpss="dropdown">
+                            <h6 clpssNpme='E2'>Men</h6>
 
-                            <div class="dropdown-content">
+                            <div clpss="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p >Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p >Styles for men </p>
                                 </Link>
 
-                                <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                <Link to='spree'>
+                                    <p >Styles for women</p>
                                 </Link>
-                                <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                <Link to='sprpy'>
+                                    <p > Deodrpnt Sprpys</p>
                                 </Link>
-                                <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                <Link to='/wptch'>
+                                    <p >wptches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p >Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p >Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p >Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p >Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p > pendrive</p>
                                 </Link>
 
                             </div>
                         </div>
                     </div>
-                    <div className='tv'>
+                    <div clpssNpme='tv'>
 
-                        <div class="dropdown">
-                            <h6 className='E2'>Home Furniture</h6>
+                        <div clpss="dropdown">
+                            <h6 clpssNpme='E2'>Home Furniture</h6>
 
-                            <div class="dropdown-content">
+                            <div clpss="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    <p >Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p >Styles for men </p>
                                 </Link>
 
-                                <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                <Link to='spree'>
+                                    <p >Styles for women</p>
                                 </Link>
-                                <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                <Link to='sprpy'>
+                                    <p > Deodrpnt Sprpys</p>
                                 </Link>
-                                <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                <Link to='/wptch'>
+                                    <p >wptches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    <p >Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p >Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p >Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    <p >Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p > pendrive</p>
                                 </Link>
 
                             </div>
                         </div>
                     </div>
-                    <div className='tv'>
+                    <div clpssName='tv'>
 
                         <div class="dropdown">
                             <h6 className='E2'>Mobiles</h6>
 
                             <div class="dropdown-content">
                                 <Link to='/television'>
-                                    <a href="#">Televisions</a>
+                                    < p>Televisions</p>
                                 </Link>
                                 <Link to='men'>
-                                    <a href="#">Styles for men </a>
+                                    <p >Styles for men </p>
                                 </Link>
 
                                 <Link to='saree'>
-                                    <a href="#">Styles for women</a>
+                                    <p>Styles for women</p>
                                 </Link>
                                 <Link to='spray'>
-                                    <a href="#"> Deodrant Sprays</a>
+                                    < p> Deodrant Sprays</p>
                                 </Link>
                                 <Link to='/watch'>
-                                    <a href="#">watches</a>
+                                    < p>watches</p>
                                 </Link>
                                 <Link to='mobiles'>
 
-                                    <a href="#">Mobiles</a>
+                                    < p>Mobiles</p>
                                 </Link>
                                 <Link to='curten'>
-                                    <a href="#">Curtens</a>
+                                    <p>Curtens</p>
                                 </Link>
                                 <Link to='electronics'>
-                                    <a href="#">Electronics</a>
+                                    <p>Electronics</p>
                                 </Link>
                                 <Link to='pouch'>
-                                    <a href="#">Mobile Pouches</a>
+                                    < p>Mobile Pouches</p>
                                 </Link>
                                 <Link to='pendrive'>
-                                    <a href="#"> pendrive</a>
+                                    <p > pendrive</p>
                                 </Link>
 
                             </div>
@@ -274,9 +274,9 @@ export default function Blanket(id,price,title,image) {
                 <div className='row3'>
                     <div className="row header__set4">
                         <div className='header__deal3'>
-                            <img className="header__Today6" src={B1} />
+                            <img className="header__Today6" src={B1} alt="img1"/>
                               <h6 className='set4'>Flipkart Perfect Homes Abstract Double Coral Blanket </h6> 
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt="img2" />
                             <span>Upto 20% off + 10% extra Off</span>
                             <h6>specialprice:₹1139</h6>
                             <div className='but5'>
@@ -286,10 +286,10 @@ export default function Blanket(id,price,title,image) {
                         </div>
 
                         <div className='header__deal3'>
-                            <img className="header__Today6" src={B2} />
+                            <img className="header__Today6" src={B2} alt="img3"/>
                             <h6 className='set4'>KIRTIKA ENTERPRISES Self </h6>
                           
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt="img4" />
                             <span>Upto 70% off</span>
                             <h6>specialprice:₹739</h6>
                             <div className='but5'>
@@ -298,9 +298,9 @@ export default function Blanket(id,price,title,image) {
                             </div>
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today6" src={B4} />
+                            <img className="header__Today6" src={B4} alt="img5"/>
                             <h6 className='set4'>IWS Self Design Double Mink Blanket  </h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt="img6"/>
                             <span>Upto 50% off</span>
                             <h6>specialprice:₹1439</h6>
                             <div className='but5'>
@@ -312,9 +312,9 @@ export default function Blanket(id,price,title,image) {
                         </div>
 
                         <div className='header__deal3'>
-                            <img className="header__Today5" src={B6} />
+                            <img className="header__Today5" src={B6} alt="img7"/>
                             <h6 className='set4'>PORTICO NEW YORK Solid Double Comforter</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt="img8" />
                             <span>Upto 40% off</span>
                             <h6>specialprice:₹1299</h6>
                             <div className='but5'>
@@ -327,9 +327,9 @@ export default function Blanket(id,price,title,image) {
 
 
                         <div className='header__deal3'>
-                            <img className="header__Today5" src={B5} />
+                            <img className="header__Today5" src={B5} alt="img12"/>
                             <h6 className='set4'>PORTICO NEW YORK Solid Double Comforter </h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt="img9" />
                             <span>Upto 20% off</span>
                             <h6>specialprice:₹939</h6>
                             <div className='but5'>
@@ -338,9 +338,9 @@ export default function Blanket(id,price,title,image) {
                             </div>
                         </div>
                         <div className='header__deal3'>
-                            <img className="header__Today5" src={B3} />
+                            <img className="header__Today5" src={B3} alt="img10" />
                             <h6 className='set4'>Signature Printed Double Mink Blanket</h6>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip}alt="img11" />
                             <span>Upto 30% off</span>
                             <h6>specialprice:₹1599</h6>
                             <div className='but5'>

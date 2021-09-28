@@ -21,36 +21,36 @@ export default function Tv() {
 
                         <div class="dropdown-content">
             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
 
             </div>
@@ -62,36 +62,36 @@ export default function Tv() {
 
                             <div class="dropdown-content">
                             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
 
                             </div>
@@ -104,36 +104,36 @@ export default function Tv() {
 
                             <div class="dropdown-content">
                             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
 
                             </div>
@@ -146,36 +146,36 @@ export default function Tv() {
 
                             <div class="dropdown-content">
                             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
 
                             </div>
@@ -188,36 +188,36 @@ export default function Tv() {
 
                             <div class="dropdown-content">
                             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
 
                             </div>
@@ -230,36 +230,36 @@ export default function Tv() {
 
                             <div class="dropdown-content">
                             <Link to='/television'>
-              <a href="#">Televisions</a>
+              <p>Televisions</p>
               </Link>
              <Link to='men'>
-              <a href="#">Styles for men </a>
+              <p>Styles for men </p>
               </Link>
              
               <Link to='saree'>
-              <a href="#">Styles for women</a>
+              <p>Styles for women</p>
               </Link>
               <Link to='spray'>
-              <a href="#"> Deodrant Sprays</a>
+              <p> Deodrant Sprays</p>
               </Link>
               <Link to='/watch'>
-              <a href="#">watches</a>
+              <p>watches</p>
               </Link>
               <Link to='mobiles'>
               
-              <a href="#">Mobiles</a>
+              <p>Mobiles</p>
               </Link>
               <Link to='curten'>
-              <a href="#">Curtens</a>
+              <p>Curtens</p>
               </Link>
               <Link to='electronics'>
-              <a href="#">Electronics</a>
+              <p>Electronics</p>
               </Link>
               <Link to='pouch'>
-              <a href="#">Mobile Pouches</a>
+              <p>Mobile Pouches</p>
               </Link>
               <Link to='pendrive'>
-              <a href="#"> pendrive</a>
+              <p> pendrive</p>
               </Link>
                             </div>
                         </div>
@@ -274,7 +274,7 @@ export default function Tv() {
             <div className='head1'>
                 <div className='t1'>
                     <div>
-                        <img className='t2' src={T1} />
+                        <img className='t2' src={T1} alt=""/>
 
                     </div>
                     <div className='t3'>
@@ -282,7 +282,7 @@ export default function Tv() {
                         <h6>   (4K) LED Smart Android TV</h6>
                         <button className='b1'>4.3
                             <StarIcon /></button>
-                        <img className='m4' src={Flip} />
+                        <img className='m4' src={Flip} alt=""/>
                         {/* <span>3,300 Ratings & 577 Reviews</span> */}
                         <h6>₹44,999  25% off</h6>
                         <h6>Bank offer</h6>
@@ -300,13 +300,13 @@ export default function Tv() {
                 <div className='t7'>
                     <div className='t4'>
                         <div>
-                            <img className='t2' src={T2} />
+                            <img className='t2' src={T2} alt=""/>
                         </div>
                         <div className='t3'>
                             <h6>realme 80 cm (32 inch) HD Ready )</h6>
                             <h6>   LED Smart Android TV  (TV 32)</h6>
                             <button className='b1'>4.5 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>3,300 Ratings & 577 Reviews</span>
                             <h6>₹34,999  25% off</h6>
                             <h6>Bank offer</h6>
@@ -322,14 +322,14 @@ export default function Tv() {
                 <div className='t7'>
                     <div className='t6'>
                         <div>
-                            <img className='t2' src={T3} />
+                            <img className='t2' src={T3} alt=""/>
                         </div>
                         <div className='t3'>
                             <h6>Coocaa 80 cm (32 inch) HD Ready </h6>
                             <h6>  LED Smart TV  (32S3U-Pro)</h6>
                             <button className='b1'>4.5
                                 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             <span>3,300 Ratings & 577 Reviews</span>
                             <h6>₹35,999  25% off</h6>
                             <h6>Bank offer</h6>
@@ -349,14 +349,14 @@ export default function Tv() {
                 <div className='head2'>
                     <div className='t1'>
                         <div>
-                            <img className='t2' src={T4} />
+                            <img className='t2' src={T4} alt=""/>
                         </div>
                         <div className='t3'>
                             <h6>Mi 4X 108 cm (43 inch) Ultra HD  </h6>
                             <h6>   (4K) LED Smart Android TV</h6>
                             <button className='b1'>4.3
                                 <StarIcon /></button>
-                            <img className='m4' src={Flip} />
+                            <img className='m4' src={Flip} alt=""/>
                             {/* <span>3,300 Ratings & 577 Reviews</span> */}
                             <h6>₹37,999  25% off</h6>
                             <h6>Bank offer</h6>
@@ -372,14 +372,14 @@ export default function Tv() {
                     <div className='t7'>
                         <div className='t4'>
                             <div>
-                                <img className='t2' src={T5} />
+                                <img className='t2' src={T5} alt=""/>
                             </div>
                             <div className='t3'>
                                 <h6>OnePlus Y Series 80 cm (32 inch) HD Ready </h6>
                                 <h6>LED Smart Android TV  (32HA0A00)</h6>
                                 <button className='b1'>4.7
                                     <StarIcon /></button>
-                                <img className='m4' src={Flip} />
+                                <img className='m4' src={Flip} alt=""/>
                                 <span>3,300 Ratings & 577 Reviews</span>
                                 <h6>₹49,999  25% off</h6>
                                 <h6>Bank offer</h6>
@@ -394,14 +394,14 @@ export default function Tv() {
                     <div className='t7'>
                         <div className='t6'>
                             <div>
-                                <img className='t2' src={T6} />
+                                <img className='t2' src={T6} alt=""/>
                             </div>
                             <div className='t3'>
                                 <h6>SAMSUNG 80 cm (32 inch) HD Ready  </h6>
                                 <h6>LED Smart TV 2020 Edition  (UA32T4340AKXXL)</h6>
                                 <button className='b1'>4.4
                                     <StarIcon /></button>
-                                <img className='m4' src={Flip} />
+                                <img className='m4' src={Flip} alt=""/>
                                 <span>3,300 Ratings & 577 Reviews</span>
                                 <h6>₹40,999  25% off</h6>
                                 <h6>Bank offer</h6>

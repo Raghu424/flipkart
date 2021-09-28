@@ -20,7 +20,7 @@ export default function CheckOut({ id, image, title, price }) {
             {/* <span className = 'main__4'> {image}</span><br></br>  */}
 
             <div className='main__4'>
-                <img src={image} />
+                <img src={image} alt="" />
             </div>
 
             <div className='check__details'>
